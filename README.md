@@ -1,1 +1,2 @@
 # Social-Network
+A social network analysis program. In this project, I read a dataset of users and friendships from a file and built a structured 2D list representation of the network. This involved file I/O, parsing, and dynamically constructing adjacency lists,
